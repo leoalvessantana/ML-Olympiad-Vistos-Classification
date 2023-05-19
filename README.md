@@ -3,7 +3,7 @@ Essa é uma competição de Machine Learning, cujo objetivo é prever a aprovaç
 
 
 <div align="center">
-<img src="img/topvistos.jpg" width="800px" />
+<img src="img/topvistos.png" width="800px" />
 </div>
 
 
