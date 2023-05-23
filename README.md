@@ -66,6 +66,6 @@ Vamos seguir os seguintes passos:
 
 
 ## Obervação
-Projeto em desenvolvimento. Atualmente estamos na etapa 1.
+Projeto em desenvolvimento. Atualmente estamos na etapa 5.
 
 
