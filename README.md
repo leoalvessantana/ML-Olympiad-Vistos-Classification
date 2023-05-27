@@ -66,6 +66,6 @@ Vamos seguir os seguintes passos:
 
 
 ## Obervação
-Projeto em desenvolvimento. Atualmente estamos na etapa 5.
+Projeto em desenvolvimento. Atualmente já passamos por todas as etapas, porém estamos tentando melhorar o score.
 
 
